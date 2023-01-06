@@ -1,0 +1,38 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    font-family: Helvetica, sans-serif;
+    background-color: aliceblue;
+}
+
+.topo {
+    text-transform: uppercase;
+    text-align: center;
+    background-color: blue;
+    color: white;
+    padding: 32px;
+    border-bottom: 4px solid greenyellow;
+}
+
+.galeria {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    padding: 20px 10px;
+    margin: 0 auto;
+    max-width: 1400px;
+    gap: 16px;
+
+}
+
+.galeria img {
+    width: 100%;
+    max-width: 350px;
+    height: 300px;
+    border-radius: 20px;
+}
