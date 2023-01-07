@@ -1,5 +1,4 @@
 <h1 align="center">Olá me chamo Carlos Alexandre</h1>
-<h3 align="center">Estudante</h3>
 
 <h1> Apresentação do portfolio </h2>
 <img src="Tela-1.png" width="700">
